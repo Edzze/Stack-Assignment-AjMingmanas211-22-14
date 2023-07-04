@@ -43,7 +43,6 @@ int main(int argc, char *argv[]) {
       cout << "Too many open parentheses" << endl;
     else if (s.get_size()==0)
       cout<< "Too many close parentheses"<< endl;
-
     else
       cout << "Parentheses Match" << endl;
   }
