@@ -41,8 +41,8 @@ int main(int argc, char *argv[]) {
     // else if () //too many open/close parentheses
     else if (s.get_size() > 0)
       cout << "Too many open parentheses" << endl;
-    else if (s.get_size()==0)
-      cout<< "Too many close parentheses"<< endl;
+    /*else if (s.get_size()==0)
+      cout<< "Too many close parentheses"<< endl;*/
     else
       cout << "Parentheses Match" << endl;
   }

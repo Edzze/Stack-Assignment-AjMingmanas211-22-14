@@ -67,5 +67,4 @@ Stack::~Stack() {
   
   //while(size>0) pop(); 
 }
-
 #endif
